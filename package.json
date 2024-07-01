@@ -1,0 +1,16 @@
+{
+  "name": "lively-ocean-gather-8v3d9",
+  "productName": "lively-ocean-gather-8v3d9",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "antoi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
